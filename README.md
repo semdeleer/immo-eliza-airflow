@@ -37,7 +37,6 @@ pip install -r requirements.txt
 $ docker compose --build
 ```
 * Now everything shoulc be automated in a docker enviroment
-```
 
 ## 🤖 Project File structure
 ```
