@@ -36,7 +36,7 @@ pip install -r requirements.txt
 ```bash
 $ docker compose --build
 ```
-* Now everything shoulc be automated in a docker enviroment
+* Now everything should be automated in a docker enviroment
 
 ## 🤖 Project File structure
 ```
@@ -55,7 +55,6 @@ C:.
 │   │   welcome_dag.py
 │   │
 │   ├───immoweb
-│   │   │   test.txt
 │   │   │   __init__.py
 │   │   │
 │   │   ├───data
@@ -74,10 +73,6 @@ C:.
 │   │   ├───model
 │   │   │   │   model_pickle_b2
 │   │   │   │   trainb.py
-│   │   │   │
-│   │   │   └───__pycache__
-│   │   │           trainb.cpython-312.pyc
-│   │   │           trainb.cpython-37.pyc
 │   │   │
 │   │   ├───pipeline
 │   │   │   │   clean.py
